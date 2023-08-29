@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>4279</id>
+      <name>Melanoma</name>
+      <size>53</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-10-26 11:37:36.117054+00:00</created>
+      <updated>2022-11-25 14:40:07.938866+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>52</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4047</id>
+          <start>0</start>
+          <stop>52</stop>
+          <url>http://91.227.139.102:8080/?id=4047</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>healthy</name>
+          <color>#814018</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>leukocyte</name>
+          <color>#d42369</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>intracellular pigments</name>
+          <color>#733380</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>elastotic degeneration</name>
+          <color>#1db922</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>hyperkeratosis</name>
+          <color>#2a7dd1</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>starry_sky</name>
+          <color>#6b8600</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>irregularly_shaped_cells</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mitosis</name>
+          <color>#b25050</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>artefactum</name>
+          <color>#33ddff</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>normal-pathologic border</name>
+          <color>#fa32b7</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>healthy_cell</name>
+          <color>#300ff3</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>irregular shaped cell</name>
+          <color>#f31c0c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>vogt plalisades</name>
+          <color>#a243f4</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-04-04 09:26:19.500128+00:00</dumped>
+  </meta>
+  <image id="0" name="GerberS(1).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="214.00" ytl="24.08" xbr="361.39" ybr="189.19" z_order="0">
+    </box>
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="23.83" ytl="293.20" xbr="89.80" ybr="366.70" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="GerberS(100).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="18.74" ytl="23.55" xbr="351.50" ybr="348.50" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="GerberS(102).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="12.93" ytl="23.55" xbr="330.40" ybr="330.40" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="GerberS(103).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="27.46" ytl="31.54" xbr="322.40" ybr="356.50" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="GerberS(104).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="18.01" ytl="18.46" xbr="248.30" ybr="273.70" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="GerberS(105).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="92.87" ytl="96.95" xbr="352.90" ybr="350.70" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="GerberS(119).jpg" width="384" height="484">
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="24.55" ytl="186.30" xbr="181.40" ybr="358.00" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="GerberS(120).jpg" width="384" height="484">
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="166.26" ytl="36.63" xbr="313.66" ybr="201.74" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="GerberS(151).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="201.15" ytl="19.91" xbr="348.55" ybr="185.03" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="GerberS(153).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="207.69" ytl="22.82" xbr="355.09" ybr="187.93" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="GerberS(154).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="223.68" ytl="19.91" xbr="371.07" ybr="185.03" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="GerberS(155).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="203.33" ytl="9.01" xbr="350.73" ybr="174.12" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="GerberS(156).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="231.67" ytl="22.09" xbr="379.07" ybr="187.20" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="GerberS(157).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="198.97" ytl="11.19" xbr="346.37" ybr="176.30" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="GerberS(159).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="135.02" ytl="33.72" xbr="282.41" ybr="198.83" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="GerberS(160).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="222.22" ytl="70.78" xbr="369.62" ybr="235.90" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="GerberS(161).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="153.18" ytl="12.64" xbr="300.58" ybr="177.76" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="GerberS(162).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="177.89" ytl="22.82" xbr="325.29" ybr="187.93" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="GerberS(165).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="197.51" ytl="27.18" xbr="344.91" ybr="192.29" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="GerberS(167).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="198.97" ytl="36.63" xbr="346.37" ybr="201.74" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="GerberS(168).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="147.37" ytl="25.73" xbr="294.77" ybr="190.84" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="GerberS(170).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="231.67" ytl="100.58" xbr="379.07" ybr="265.69" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="GerberS(171).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="205.51" ytl="36.63" xbr="352.91" ybr="201.74" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="GerberS(172).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="145.19" ytl="9.01" xbr="292.59" ybr="174.12" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="GerberS(174).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="230.94" ytl="43.89" xbr="378.34" ybr="209.01" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="GerberS(176).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="214.96" ytl="11.92" xbr="362.35" ybr="177.03" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="GerberS(178).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="128.48" ytl="12.64" xbr="275.87" ybr="177.76" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="GerberS(32).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="57.26" ytl="84.59" xbr="204.65" ybr="249.70" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="GerberS(33).jpg" width="384" height="484">
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="0.73" ytl="195.05" xbr="72.40" ybr="360.17" z_order="0">
+    </box>
+    <box label="healthy" occluded="0" source="manual" xtl="169.17" ytl="118.02" xbr="316.57" ybr="283.13" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="GerberS(34).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="188.07" ytl="141.28" xbr="335.46" ybr="306.39" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="GerberS(35).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="166.99" ytl="189.24" xbr="314.39" ybr="354.35" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="GerberS(45).jpg" width="384" height="484">
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="22.37" ytl="205.95" xbr="169.77" ybr="371.07" z_order="0">
+    </box>
+    <box label="healthy" occluded="0" source="manual" xtl="218.59" ytl="27.91" xbr="365.99" ybr="193.02" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="GerberS(47).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="137.92" ytl="63.52" xbr="285.32" ybr="228.63" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="GerberS(48).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="104.49" ytl="132.55" xbr="251.89" ybr="297.67" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="GerberS(51).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="183.71" ytl="35.90" xbr="331.10" ybr="201.01" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="GerberS(52).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="196.11" ytl="53.34" xbr="321.66" ybr="195.98" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="GerberS(53).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="224.40" ytl="9.74" xbr="371.80" ybr="174.85" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="GerberS(54).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="176.44" ytl="166.70" xbr="323.84" ybr="304.21" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="GerberS(56).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="193.15" ytl="21.37" xbr="340.55" ybr="186.48" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="GerberS(59).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="34.00" ytl="17.73" xbr="181.40" ybr="182.84" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="GerberS(70).jpg" width="384" height="484">
+    <box label="artefactum" occluded="0" source="manual" xtl="0.00" ytl="226.30" xbr="48.40" ybr="384.87" z_order="0">
+    </box>
+    <box label="healthy" occluded="0" source="manual" xtl="205.51" ytl="26.45" xbr="352.91" ybr="191.57" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="GerberS(71).jpg" width="384" height="484">
+    <box label="artefactum" occluded="0" source="manual" xtl="0.57" ytl="260.40" xbr="49.80" ybr="381.97" z_order="0">
+    </box>
+    <box label="healthy" occluded="0" source="manual" xtl="187.34" ytl="40.99" xbr="334.74" ybr="206.10" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="GerberS(72).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="142.28" ytl="202.32" xbr="289.68" ybr="367.43" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="GerberS(73).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="218.59" ytl="12.64" xbr="365.99" ybr="177.76" z_order="0">
+    </box>
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="42.70" ytl="113.66" xbr="158.10" ybr="224.23" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="GerberS(74).jpg" width="384" height="484">
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="113.23" ytl="57.75" xbr="199.53" ybr="145.85" z_order="0">
+    </box>
+    <box label="artefactum" occluded="0" source="manual" xtl="0.00" ytl="213.95" xbr="94.20" ybr="379.06" z_order="0">
+    </box>
+    <box label="healthy" occluded="0" source="manual" xtl="235.30" ytl="57.70" xbr="382.70" ybr="264.20" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="GerberS(92).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="154.64" ytl="263.05" xbr="302.03" ybr="381.59" z_order="0">
+    </box>
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="84.87" ytl="91.50" xbr="232.27" ybr="251.50" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="GerberS(93).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="114.67" ytl="258.65" xbr="262.06" ybr="367.78" z_order="0">
+    </box>
+    <box label="intracellular pigments" occluded="0" source="manual" xtl="79.79" ytl="116.19" xbr="227.18" ybr="215.19" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="GerberS(94).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="73.24" ytl="81.34" xbr="220.64" ybr="287.84" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="GerberS(95).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="167.72" ytl="114.77" xbr="315.12" ybr="321.27" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="GerberS(96).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="57.26" ytl="29.74" xbr="312.20" ybr="276.20" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="GerberS(97).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="47.08" ytl="31.92" xbr="296.90" ybr="238.42" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="GerberS(99).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="55.80" ytl="71.89" xbr="309.30" ybr="278.39" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="Kormendyne SuranyiI(242).jpg" width="384" height="484">
+    <box label="healthy" occluded="0" source="manual" xtl="256.40" ytl="91.51" xbr="377.61" ybr="244.20" z_order="0">
+    </box>
+  </image>
+</annotations>

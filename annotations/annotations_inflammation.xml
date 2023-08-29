@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>4292</id>
+      <name>Inflammation</name>
+      <size>7</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-11-28 11:15:39.251589+00:00</created>
+      <updated>2022-11-28 21:04:49.778958+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>6</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4060</id>
+          <start>0</start>
+          <stop>6</stop>
+          <url>http://91.227.139.102:8080/?id=4060</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>healthy</name>
+          <color>#814018</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>leukocyte</name>
+          <color>#d42369</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>intracellular pigments</name>
+          <color>#733380</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>elastotic degeneration</name>
+          <color>#1db922</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>hyperkeratosis</name>
+          <color>#2a7dd1</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>starry_sky</name>
+          <color>#6b8600</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>irregularly_shaped_cells</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mitosis</name>
+          <color>#b25050</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>artefactum</name>
+          <color>#33ddff</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>normal-pathologic border</name>
+          <color>#fa32b7</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>healthy_cell</name>
+          <color>#300ff3</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>irregular shaped cell</name>
+          <color>#f31c0c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>vogt plalisades</name>
+          <color>#a243f4</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-04-04 09:04:32.860500+00:00</dumped>
+  </meta>
+  <image id="0" name="keresztess(641).jpg" width="384" height="484">
+  </image>
+  <image id="1" name="keresztess(655).jpg" width="384" height="484">
+    <box label="leukocyte" occluded="0" source="manual" xtl="160.07" ytl="103.24" xbr="296.44" ybr="283.75" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="keresztess(666).jpg" width="384" height="484">
+    <box label="leukocyte" occluded="0" source="manual" xtl="154.56" ytl="89.36" xbr="323.25" ybr="261.21" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="keresztess(673).jpg" width="384" height="484">
+    <box label="leukocyte" occluded="0" source="manual" xtl="141.94" ytl="37.34" xbr="293.29" ybr="167.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="keresztess(674).jpg" width="384" height="484">
+    <box label="leukocyte" occluded="0" source="manual" xtl="44.20" ytl="153.21" xbr="170.32" ybr="336.09" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="keresztess(675).jpg" width="384" height="484">
+    <box label="leukocyte" occluded="0" source="manual" xtl="143.52" ytl="77.54" xbr="308.27" ybr="265.15" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="keresztess(678).jpg" width="384" height="484">
+    <box label="leukocyte" occluded="0" source="manual" xtl="48.14" ytl="105.92" xbr="190.03" ybr="264.36" z_order="0">
+    </box>
+  </image>
+</annotations>
