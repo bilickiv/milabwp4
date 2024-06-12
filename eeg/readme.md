@@ -33,7 +33,7 @@ https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/studium/archiv/ws1
 ### running the make_microstates function
 
 The necessary arguments are the following:
-- raw: bdf/edf file waiting to be preprocessed
+- raw: bdf/edf file waiting to be preprocessed.
 - fname: filename, without extension. Can be anything.
 - good_channels: list of channels that will be used
 - reference_df: dataframe of the aforementioned reference maps. If exists, the program backfits the signals to this.
