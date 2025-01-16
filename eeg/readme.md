@@ -15,7 +15,7 @@ https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/studium/archiv/ws1
 - **Setting a montage if there is none! This is mandatory so that the electrodes have positions!**
 - Resampling the signals to preprocess them faster.
 - Notch filter. Default at 50Hz.
-- Bnadpass filter. Default is between 0,5Hz and 40Hz.
+- Bnadpass filter. Default is between 0,5Hz and 70Hz.
 - Identifying the bad intervals and interpolate the bad channels by hand.
 - Removing the bad states using Independent Component Analysis if necessary. 
 - Calculating the 4 most present maps at GFP peaks only.
